@@ -44,10 +44,10 @@ The application simulates a complete chess game logic without using external che
 
 | Ana Ekran | Oyun İçi Görüntü |
 | :---: | :---: |
-| ![SS1](ss1.png) | ![SS2](ss2.png) |
+| ![SS3](ss3.png) | ![SS1](ss1.png) |
 
 ### Diğer Detaylar
-![SS3](ss3.png)
+![SS2](ss2.png)
 
 ---
 
