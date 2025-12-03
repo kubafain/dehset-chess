@@ -41,7 +41,13 @@ The application simulates a complete chess game logic without using external che
 
 ## 📷 Screenshots
 
-*(Buraya oyunun çalışırkenki 1-2 ekran görüntüsünü sürükleyip bırakabilirsin)*
+
+| Ana Ekran | Oyun İçi Görüntü |
+| :---: | :---: |
+| ![SS1](ss1.png) | ![SS2](ss2.png) |
+
+### Diğer Detaylar
+![SS3](ss3.png)
 
 ---
 
